@@ -1,4 +1,4 @@
-<h1 align="center"> Bloco de Tarefas </h1>
+<h1 align="center"> Bloco de Notas </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,9 +12,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<h2 align="center"> Play Music </h2>
+<h2 align="center"> Bloco de Notas </h2>
 <p align="center">
-  <img alt="Play Music" src="https://github.com/erik-nathan/animations-css/blob/master/gif/play-music.gif" width="75%">
+  <img alt="Bloco de Notas" src="https://github.com/erik-nathan/app-notes-react/blob/master/src/assets/bloco-de-notas.gif" width="75%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Essas são algumas animações basicas utilizando CSS para a pratica de Transition e Animation!😉
+Esse é um projeto de Bloco de Anotações utilizando React baseado em um curso introdutório de react no YouTube!😉
 
 ## :memo: Licença
 
