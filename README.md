@@ -12,7 +12,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<h2 align="center"> Bloco de Notas </h2>
+<!-- <h2 align="center"> Bloco de Notas </h2> -->
 <p align="center">
   <img alt="Bloco de Notas" src="https://github.com/erik-nathan/app-notes-react/blob/master/src/assets/bloco-de-notas.gif" width="75%">
 </p>
